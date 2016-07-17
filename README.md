@@ -1,0 +1,2 @@
+# CustomBaseNavgationtroller
+自定义NavgationController，实现类似网易新闻、网易云音乐的NavgationBar切换效果。
